@@ -1,1 +1,1 @@
-just learning machine learning! might convert to a standardized public learning notebook once im done. 
+simple public models. i might convert this to a public interactive learning ml notebook once im done!
